@@ -1,1 +1,0 @@
-# QRCode-Generator-and-Reader
